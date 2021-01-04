@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SampleTestTable" max_length="40" name="x_437100_ipinfo_sp_sampletesttable" type="collection"/>
+</database>
